@@ -1,6 +1,8 @@
 
 ## NestJS Movie API
 
+![image](https://github.com/alex-agency/nestjs-movie-api/assets/1122708/8b8169cc-c71f-48ec-b736-c2786193dae6)
+
 ### Description
 
 [Nest](https://github.com/nestjs/nest) is framework for building efficient, scalable NodeJS server-side applications.
